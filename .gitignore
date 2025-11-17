@@ -1,0 +1,27 @@
+# Arquivos e pastas do Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.doc
+
+# Pastas de compilação (Build)
+# (Essas pastas são geradas automaticamente)
+[Bb]in/
+[Oo]bj/
+
+# Pasta de pacotes NuGet
+# (Os pacotes são restaurados, não enviados)
+[Pp]ackages/
+
+# Arquivos de resultados de teste
+TestResults/
+*.testlog
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Logs
+*.log
