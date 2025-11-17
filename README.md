@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biblioteca `evosystem-backend`
 
 Esta documentação descreve a API da biblioteca `evosystem-backend` (compilada como `evosystem-backend.dll`). O objetivo é fornecer todas as informações necessárias para instanciar as classes e consumir os métodos que buscam dados do sistema, aplicativos, drivers e arquivos do usuário.
@@ -277,3 +278,7 @@ Executa o comando `winget list --upgrade-available` e retorna a saída.
     ```
 
     O frontend precisará dividir esta string (provavelmente por espaços múltiplos) para obter o Nome (`Microsoft.PowerToys`), Versão Atual (`0.64.0`), Versão Disponível (`0.64.1`), etc.
+=======
+# evosystem-backend
+Repositório dedicado aos códigos do back-end da aplicação.
+>>>>>>> c323852e0db35e156673f27a4c05cc19f103d6a4
