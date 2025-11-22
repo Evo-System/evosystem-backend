@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
@@ -6,6 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evosystem-backend", "evosystem-backend\evosystem-backend.csproj", "{FB76C73E-C8E6-44FB-BEDA-ABFB28401002}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evosystem-tester", "evosystem-tester\evosystem-tester.csproj", "{4557DA15-EE6A-44A3-8909-9610BDD76D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvoSystem.UI", "EvoSystem.UI\EvoSystem.UI.csproj", "{6F205714-63C0-4D3E-B990-8E7D4F6E35F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4557DA15-EE6A-44A3-8909-9610BDD76D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4557DA15-EE6A-44A3-8909-9610BDD76D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4557DA15-EE6A-44A3-8909-9610BDD76D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F205714-63C0-4D3E-B990-8E7D4F6E35F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F205714-63C0-4D3E-B990-8E7D4F6E35F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F205714-63C0-4D3E-B990-8E7D4F6E35F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F205714-63C0-4D3E-B990-8E7D4F6E35F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
